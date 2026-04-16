@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @karanrpawar
+- 👋 Hi, I’m Karan
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on projects based on MERN
-- 📫 How to reach me - pawar.karan55567@gmail.com
+- 📫 How to reach me - karanpawarofficial@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a Sketch Artist and a Bodybuilder 
 
